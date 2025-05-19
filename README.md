@@ -7,10 +7,11 @@
 
 ## 🧪 Recent Projects & Work
 
-- **HTTX (Holotable Tabletop Exercise)**  
-  *Senior Capstone – Spring 2025*  
-  🔗 [GitHub Repo](https://github.com/HagenFarrell/HospitalScenario)  
+- **HTTX (Holotable Tabletop Exercise)** – *Senior Capstone, Spring 2025*  
+  🔗 [GitHub Repo](https://github.com/HagenFarrell/HospitalScenario)
+
   Designed and implemented key systems for role-based tools and interactions in a Unity multiplayer simulation. Focused on defining unique player capabilities (e.g., Dispatcher, LLE, FD) and building tool logic to support emergency response training scenarios.
+
 
 
 ---
