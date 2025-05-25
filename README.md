@@ -36,7 +36,7 @@ HLSL + ShaderLab, procedural content systems, LLM prompt engineering
 
 - [LinkedIn](https://linkedin.com/in/averymillard)  
 - Email: [averymillard.dev@gmail.com]
-
+- [Itch.io](https://avm.itch.io)  
 <!--
 **AveryMillard/AveryMillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
