@@ -28,7 +28,7 @@ Unity, React, Node.js, MongoDB, Express, Git
 Game logic, custom tools, full-stack development, systems thinking
 
 **Currently Learning**  
-HLSL + ShaderLab, procedural content systems, LLM prompt engineering
+Tailwind CSS + Eleventy (11ty)
 
 ---
 
