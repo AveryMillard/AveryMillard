@@ -28,7 +28,7 @@
   🔗 [itch.io](https://avmworks.itch.io/carnival-conquest)  
   Polished jam submission with a carnival theme.
 
-- **Rise of the Numbers** – *Trijam 266 Submission, April 2024*
+- **Rise of the Numbers** – *Trijam 266 Submission, April 2024*  
   🔗 [itch.io](https://avmworks.itch.io/rise-of-the-numbers)  
   Solo Godot shooter. First Shipped Game. Fight for Odd Number Supremacy!
   
