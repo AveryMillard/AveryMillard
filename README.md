@@ -36,7 +36,7 @@ Tailwind CSS + Eleventy (11ty)
 
 - [LinkedIn](https://linkedin.com/in/averymillard)  
 - Email: [averymillard.dev@gmail.com]
-- [Itch.io](https://avm.itch.io)  
+- [Itch.io](https://avmworks.itch.io/)  
 <!--
 **AveryMillard/AveryMillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
