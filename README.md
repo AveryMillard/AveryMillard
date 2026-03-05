@@ -13,8 +13,25 @@
   Designed and implemented key systems for role-based tools and interactions in a Unity multiplayer simulation. Focused on defining unique player capabilities (e.g., Dispatcher, LLE, FD) and building tool logic to support emergency response training scenarios.
 
 
-
 ---
+
+## 🎮 Games I've Made
+- **Fling-A-Ling** – *Orlando Game Jam, January 2026*  
+  🔗 [itch.io](https://avmworks.itch.io/fling-a-ling)  
+  Puzzle deck builder with ragdoll physics. Built in 72 hours with a team of six.
+
+  - **Polar Shift** – *Trijam 350 Submission, December 2025*
+  🔗 [itch.io](https://avmworks.itch.io/polar-shift)  
+  Magnet-based puzzle game. Navigate a world where north means more than snow.
+
+- **Carnival Conquest** – *FIEA Game Jam, January 2025*  
+  🔗 [itch.io](https://avmworks.itch.io/carnival-conquest)  
+  Polished jam submission with a carnival theme.
+
+- **Rise of the Numbers** – *Trijam 266 Submission, April 2024*
+  🔗 [itch.io](https://avmworks.itch.io/rise-of-the-numbers)  
+  Solo Godot shooter. First Shipped Game. Fight for Odd Number Supremacy!
+  
 
 ## 🛠️ Skills
 
@@ -22,13 +39,10 @@
 C#, JavaScript, Python, HTML/CSS, C, Java, PHP
 
 **Frameworks & Tools**  
-Unity, React, Node.js, MongoDB, Express, Git
+Unity, React, Node.js, MongoDB, Express, Git, Docker, 
 
 **Strengths**  
-Game logic, custom tools, full-stack development, systems thinking
-
-**Currently Learning**  
-Tailwind CSS + Eleventy (11ty)
+Game logic, custom tools, full-stack development, systems design
 
 ---
 
@@ -37,17 +51,4 @@ Tailwind CSS + Eleventy (11ty)
 - [LinkedIn](https://linkedin.com/in/averymillard)  
 - Email: [averymillard.dev@gmail.com]
 - [Itch.io](https://avmworks.itch.io/)  
-<!--
-**AveryMillard/AveryMillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
