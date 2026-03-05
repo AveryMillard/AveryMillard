@@ -20,7 +20,7 @@
   🔗 [itch.io](https://avmworks.itch.io/fling-a-ling)  
   Puzzle deck builder with ragdoll physics. Built in 72 hours with a team of six.
 
-  - **Polar Shift** – *Trijam 350 Submission, December 2025*
+- **Polar Shift** – *Trijam 350 Submission, December 2025*
   🔗 [itch.io](https://avmworks.itch.io/polar-shift)  
   Magnet-based puzzle game. Navigate a world where north means more than snow.
 
