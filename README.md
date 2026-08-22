@@ -1,54 +1,104 @@
-## Heya 👋 I'm Avery Millard
+Heya 👋 I’m Avery Millard
 
-🎓 Recently graduated with a degree in Computer Science from UCF  
-💻 Software developer with a passion for systems, interactivity, and game design  
+🎓 Computer Science graduate from UCF
+💻 Software developer interested in full-stack development, interactive systems, tools, and game development
+🛠️ I like building things end-to-end, figuring out how the pieces fit together, and iterating once real people start using them
 
----
+⸻
 
-## 🧪 Recent Projects & Work
+💻 Software Projects
 
-- **HTTX (Holotable Tabletop Exercise)** – *Senior Capstone, Spring 2025*  
-  🔗 [GitHub Repo](https://github.com/HagenFarrell/HospitalScenario)
+School Management System
 
-  Designed and implemented key systems for role-based tools and interactions in a Unity multiplayer simulation. Focused on defining unique player capabilities (e.g., Dispatcher, LLE, FD) and building tool logic to support emergency response training scenarios.
+FastAPI · SQLite · JavaScript · HTML/CSS · nginx · Raspberry Pi
 
+Built and deployed a full-stack web application used daily by staff at a local school.
 
----
+* Student records and attendance tracking
+* Staff timesheets and lunch-order management
+* Sign-in/sign-out registry
+* CSV export and administrative tools
+* Scheduling logic for assigning students to activities with capacity limits
+* Self-hosted on a Raspberry Pi with HTTPS
 
-## 🎮 Games I've Made
-- **Fling-A-Ling** – *Orlando Game Jam, January 2026*  
-  🔗 [itch.io](https://avmworks.itch.io/fling-a-ling)  
-  Puzzle deck builder with ragdoll physics. Built in 72 hours with a team of six.
+Because the production system contains private student and staff information, the live repository is not public. I’m working on a sanitized version that demonstrates the underlying architecture and features using synthetic data.
 
-- **Polar Shift** – *Trijam 350 Submission, December 2025*  
-  🔗 [itch.io](https://avmworks.itch.io/polar-shift)  
-  Magnet-based puzzle game. Navigate a world where north means more than snow.
+Full-Stack Web Application
 
-- **Carnival Conquest** – *FIEA Game Jam, January 2025*  
-  🔗 [itch.io](https://avmworks.itch.io/carnival-conquest)  
-  Polished jam submission with a carnival theme.
+React · Node.js · Express · MongoDB
 
-- **Rise of the Numbers** – *Trijam 266 Submission, April 2024*  
-  🔗 [itch.io](https://avmworks.itch.io/rise-of-the-numbers)  
-  Solo Godot shooter. First Shipped Game. Fight for Odd Number Supremacy!
-  
+Worked on a university team project building a complete MERN application.
 
-## 🛠️ Skills
+I primarily worked on the backend and REST API layer, including routing, data models, and integration with the React frontend.
 
-**Languages**  
-C#, JavaScript, Python, HTML/CSS, C, Java, PHP
+⸻
 
-**Frameworks & Tools**  
-Unity, React, Node.js, MongoDB, Express, Git, Docker, 
+🧪 HTTX — Holotable Tabletop Exercise
 
-**Strengths**  
-Game logic, custom tools, full-stack development, systems design
+UCF Senior Capstone · Unity / C# · Spring 2025
+🔗 GitHub Repo
 
----
+Worked with a senior design team on a Unity-based emergency-response training simulation intended for a holographic tabletop display.
 
-## 📫 Let’s Connect
+My work focused on:
 
-- [LinkedIn](https://linkedin.com/in/averymillard)  
-- Email: [averymillard.dev@gmail.com]
-- [Itch.io](https://avmworks.itch.io/)  
+* Role-based capabilities and permissions
+* Scenario progression
+* Gameplay and interaction systems
+* Camera and unit controls
+* Tool logic for roles such as Dispatcher, LLE, and FD
 
+⸻
+
+🎮 Game Development
+
+Game development is a major part of my personal work, especially systems-driven 3D projects in Unity and C#.
+
+Current Project
+
+I’m currently building a first-person resource puzzle game centered around analyzing planets through spectroscopy, extracting materials, and using those resources to progress.
+
+Some of the systems I’ve been working on include:
+
+* Laser targeting and extraction mechanics
+* Procedural resource calculations
+* Resource and upgrade systems
+* Real-time UI and telemetry
+* Audio and gameplay feedback
+* Iterative playtesting and balancing
+
+I’ve also shipped several smaller games through game jams and solo development.
+
+🎮 See my games on itch.io
+🌐 View my game-development portfolio
+
+⸻
+
+🛠️ Tech I Work With
+
+Languages
+C# · Python · JavaScript · C · Java · HTML/CSS · PHP
+
+Web & Backend
+React · Node.js · Express · FastAPI · REST APIs
+
+Databases
+SQLite · MySQL · MongoDB
+
+Tools & Platforms
+Git · GitHub · Docker · nginx · Raspberry Pi
+
+Game Development
+Unity · Godot · Unreal Engine
+
+Areas I Especially Enjoy
+Systems design · gameplay programming · full-stack development · developer tools · debugging weird problems
+
+⸻
+
+📫 Let’s Connect
+
+* LinkedIn
+* Email
+* Game Portfolio
+* itch.io
